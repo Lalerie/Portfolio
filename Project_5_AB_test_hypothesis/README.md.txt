@@ -1,7 +1,7 @@
 # Hypothesis testing on A/B tests
 
-[.md](https://choosealicense.com/licenses/mit/)
-[.ipynb](https://choosealicense.com/licenses/mit/)
+[.html](https://github.com/Lalerie/Portfolio/blob/main/Project_5_AB_test_hypothesis/Project7_2022.12.04_ver6_final.html)
+[.ipynb](https://github.com/Lalerie/Portfolio/blob/main/Project_5_AB_test_hypothesis/Project7_2022.12.04_ver6_final.ipynb)
 
 ## Research purpose
 Identify hypotheses that will help increase the revenue of the online store.
