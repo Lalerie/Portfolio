@@ -15,7 +15,7 @@ Due to Github don't perform Java, hence Plotly, please view the project on Jupyt
 - Profit increase
 
 ## Research description
-Analyze the impact of events on the completion of the target event — viewing contacts
+Analyze the impact of events on the completion of the target event — viewing contacts.  
 The dataset contains data on events committed in the "Unnecessary Things" mobile application. In it, users sell their unwanted items by posting them on a bulletin board.
 
 ## Project summary
