@@ -1,6 +1,6 @@
 # Mobile application users behavior analysis
 
-Due to Github don't perform Java, hence Plotly, please view the project on Jupyter Notebook Viewer below:
+Due to Github don't perform Java, hence Plotly, please view the project on Jupyter Notebook Viewer below:  
 [.ipynb](https://nbviewer.org/github/Lalerie/Portfolio/blob/main/Project_1_Mobile_app/Project11_2022.12.04_ver7_final.ipynb)  
 [.html](https://github.com/Lalerie/Portfolio/blob/main/Project_1_Mobile_app/Project11_2022.12.04_ver7_final.html)   
 
