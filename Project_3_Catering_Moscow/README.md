@@ -15,7 +15,7 @@ We have a dataset with public catering establishments in Moscow, compiled on the
 ## General recommendation for opening a new coffee shop
 Consider for a coffee shop the areas with the lowest ratings and the most sparsely populated coffee shops, which means with the most uncompetitive environment  
 ****NAD NEAD SAD**  
-The average cost of a cup of cappuccino in these areas:
+The average cost of a cup of cappuccino in these areas:  
 **WAD - 195₽  
 NEAD - 165₽  
 SAD - 160₽**
@@ -23,12 +23,10 @@ SAD - 160₽**
 ### Recommendation for opening a new coffee shop. Option 1
 Consider coffee shops in the areas selected above.  
 We will look for the street with the least number of competitors, where there is only one institution on the street
----
 Based on the small number of such streets - 17, it will be easy to choose the most passable ones with the help of third-party data
 
 ### Recommendation for opening a new coffee shop. Option 2
 Consider the 200 most popular streets in Moscow where there are no coffee shops
----
 17 streets is also a small number, it will be easy to choose from it.  
 You can additionally impose restrictions on the above selected areas.  
 Or, depending on the business plan, focus on areas for the price of a cup.
