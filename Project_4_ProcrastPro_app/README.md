@@ -1,7 +1,7 @@
 # Marketing analysis of the Procrastinate Pro+ application
 
+[.ipynb](https://nbviewer.org/github/Lalerie/Portfolio/blob/main/Project_4_ProcrastPro_app/Project6_2022.12.04_ver4_final.ipynb)  
 [.html](https://github.com/Lalerie/Portfolio/blob/main/Project_4_ProcrastPro_app/Project6_2022.12.04_ver4_final.html)
-[.ipynb](https://github.com/Lalerie/Portfolio/blob/main/Project_4_ProcrastPro_app/Project6_2022.12.04_ver4_final.ipynb)
 
 ## Research purpose
 To figure out the reason of the Procrastinate Pro+ entertainment application profits decrease in the last few months. And help the company to bring back the profit growth.
