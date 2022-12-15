@@ -1,6 +1,6 @@
 # A/B testing
 
-Due to Github don't perform Java, hence Plotly, please view the project on Jupyter Notebook Viewer below:
+Due to Github don't perform Java, hence Plotly, please view the project on Jupyter Notebook Viewer below:  
 [.ipynb](https://nbviewer.org/github/Lalerie/Portfolio/blob/main/Project_2_AB_test/Project11_ABtest_2022.12.04_ver5_final.ipynb)  
 [.html](https://github.com/Lalerie/Portfolio/blob/main/Project_2_AB_test/Project11_ABtest_2022.12.04_ver5_final.html)  
 
