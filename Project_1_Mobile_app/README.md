@@ -1,8 +1,9 @@
 # Mobile application users behavior analysis
 
+[.ipynb](https://nbviewer.org/github/Lalerie/Portfolio/blob/main/Project_1_Mobile_app/Project11_2022.12.04_ver7_final.ipynb)  
+Due to git don't perform HTML/JavaScript and thereby Plotly, please check:
 [.html](https://github.com/Lalerie/Portfolio/blob/main/Project_1_Mobile_app/Project11_2022.12.04_ver7_final.html)  
-[.pdf Due to git don't perform HTML/JavaScript and thereby Plotly](https://github.com/Lalerie/Portfolio/blob/main/Project_1_Mobile_app/Project11_2022.12.04_ver7_final.pdf)  
-[.ipynb](https://github.com/Lalerie/Portfolio/blob/main/Project_1_Mobile_app/Project11_2022.12.04_ver7_final.ipynb)  
+[.pdf](https://github.com/Lalerie/Portfolio/blob/main/Project_1_Mobile_app/Project11_2022.12.04_ver7_final.pdf)  
 
 **Atachments**
 - Presentation https://docs.google.com/presentation/d/1PGqQJab22Jl8T3LzK3dtvW4qYUpPVVBiHSoXqHGxvpw/edit?usp=sharing
