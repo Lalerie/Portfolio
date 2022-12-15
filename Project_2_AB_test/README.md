@@ -1,7 +1,7 @@
 # A/B testing
 
-[.md](https://choosealicense.com/licenses/mit/)
-[.ipynb](https://choosealicense.com/licenses/mit/)
+[.html](https://github.com/Lalerie/Portfolio/blob/main/Project_2_AB_test/Project11_ABtest_2022.12.04_ver5_final.html)
+[.ipynb](https://github.com/Lalerie/Portfolio/blob/main/Project_2_AB_test/Project11_ABtest_2022.12.04_ver5_final.ipynb)
 
 ## Research purpose
 Evaluate the results of the A/B test.
