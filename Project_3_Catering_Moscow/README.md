@@ -1,7 +1,7 @@
 # Moscow public catering establishments market research  
 
+[.ipynb](https://nbviewer.org/github/Lalerie/Portfolio/blob/main/Project_3_Catering_Moscow/Project9_2022.12.04_ver6_final.ipynb)  
 [.html](https://github.com/Lalerie/Portfolio/blob/main/Project_3_Catering_Moscow/Project9_2022.12.04_ver6_final.html)
-[.ipynb](https://github.com/Lalerie/Portfolio/blob/main/Project_3_Catering_Moscow/Project9_2022.12.04_ver6_final.ipynb)
 
 ## Research purpose  
 Explore the market of public catering establishments in Moscow and find interesting features that will help in choosing a suitable place to open a new establishment.
