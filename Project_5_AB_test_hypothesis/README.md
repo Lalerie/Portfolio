@@ -1,5 +1,6 @@
 # Hypothesis testing on A/B tests
 
+Due to Github don't perform Java, hence Plotly, please view the project on Jupyter Notebook Viewer below:  
 [.ipynb](https://nbviewer.org/github/Lalerie/Portfolio/blob/main/Project_5_AB_test_hypothesis/Project7_2022.12.04_ver6_final.ipynb)  
 [.html](https://github.com/Lalerie/Portfolio/blob/main/Project_5_AB_test_hypothesis/Project7_2022.12.04_ver6_final.html)
 
