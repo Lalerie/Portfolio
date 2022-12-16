@@ -26,6 +26,6 @@ According to the results of the test, there are significant differences between 
 
 There are also significant differences in the number of events per user between groups - the relative gain of group A is 17%.   
 
-These results should not be guided, since the test was conducted incorrectly, most of the points of the TOR are not observed.
+These results should not be guided, since the test was conducted incorrectly, most of the points of the TS are not observed.
 
-It is recommended to conduct the test again in compliance with the terms of the TOR, outside of festive promotions.
+It is recommended to conduct the test again in compliance with the terms of the TS, outside of festive promotions.
