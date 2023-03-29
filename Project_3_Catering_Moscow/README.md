@@ -4,6 +4,9 @@ Due to Github don't perform Java, hence Plotly, please view the project on Jupyt
 [.ipynb](https://nbviewer.org/github/Lalerie/Portfolio/blob/main/Project_3_Catering_Moscow/Project9_2022.12.04_ver6_final.ipynb)  
 [.html](https://github.com/Lalerie/Portfolio/blob/main/Project_3_Catering_Moscow/Project9_2022.12.04_ver6_final.html)
 
+## Atachments:
+Presentation https://docs.google.com/presentation/d/1j1fpsObv4aBDC4wY6SNKe2PgRxqlk-tCnTiHjpmgVH8/edit#slide=id.p
+
 ## Research purpose  
 Explore the market of public catering establishments in Moscow and find interesting features that will help in choosing a suitable place to open a new establishment.
 
