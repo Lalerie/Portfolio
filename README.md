@@ -1,4 +1,4 @@
-# Portfolio
+# Projects
 Data Analytical Projects
 
 | **№** | **Project**        | **Objective**                                                                                                                                                            | **Description**                                                                                                                                                                                                                                                                                                                            | **Stack**                                                                                                         |
